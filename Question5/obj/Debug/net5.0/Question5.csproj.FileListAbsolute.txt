@@ -1,0 +1,16 @@
+C:\CodebitsAcademy\LabTasks\Ayokunle Onadiji\Question5\obj\Debug\net5.0\Question5.csprojAssemblyReference.cache
+C:\CodebitsAcademy\LabTasks\Ayokunle Onadiji\Question5\obj\Debug\net5.0\Question5.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodebitsAcademy\LabTasks\Ayokunle Onadiji\Question5\obj\Debug\net5.0\Question5.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\LabTasks\Ayokunle Onadiji\Question5\obj\Debug\net5.0\Question5.AssemblyInfo.cs
+C:\CodebitsAcademy\LabTasks\Ayokunle Onadiji\Question5\obj\Debug\net5.0\Question5.csproj.CoreCompileInputs.cache
+C:\CodebitsAcademy\LabTasks\Ayokunle Onadiji\Question5\bin\Debug\net5.0\Question5.exe
+C:\CodebitsAcademy\LabTasks\Ayokunle Onadiji\Question5\bin\Debug\net5.0\Question5.deps.json
+C:\CodebitsAcademy\LabTasks\Ayokunle Onadiji\Question5\bin\Debug\net5.0\Question5.runtimeconfig.json
+C:\CodebitsAcademy\LabTasks\Ayokunle Onadiji\Question5\bin\Debug\net5.0\Question5.runtimeconfig.dev.json
+C:\CodebitsAcademy\LabTasks\Ayokunle Onadiji\Question5\bin\Debug\net5.0\Question5.dll
+C:\CodebitsAcademy\LabTasks\Ayokunle Onadiji\Question5\bin\Debug\net5.0\ref\Question5.dll
+C:\CodebitsAcademy\LabTasks\Ayokunle Onadiji\Question5\bin\Debug\net5.0\Question5.pdb
+C:\CodebitsAcademy\LabTasks\Ayokunle Onadiji\Question5\obj\Debug\net5.0\Question5.dll
+C:\CodebitsAcademy\LabTasks\Ayokunle Onadiji\Question5\obj\Debug\net5.0\ref\Question5.dll
+C:\CodebitsAcademy\LabTasks\Ayokunle Onadiji\Question5\obj\Debug\net5.0\Question5.pdb
+C:\CodebitsAcademy\LabTasks\Ayokunle Onadiji\Question5\obj\Debug\net5.0\Question5.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+C:\CodebitsAcademy\LabTasks\Ayokunle Onadiji\Question4\obj\Debug\net5.0\Question4.csprojAssemblyReference.cache
+C:\CodebitsAcademy\LabTasks\Ayokunle Onadiji\Question4\obj\Debug\net5.0\Question4.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodebitsAcademy\LabTasks\Ayokunle Onadiji\Question4\obj\Debug\net5.0\Question4.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\LabTasks\Ayokunle Onadiji\Question4\obj\Debug\net5.0\Question4.AssemblyInfo.cs
+C:\CodebitsAcademy\LabTasks\Ayokunle Onadiji\Question4\obj\Debug\net5.0\Question4.csproj.CoreCompileInputs.cache
